@@ -21,15 +21,14 @@ Usage
 -----
 The library provides a single class named SC1628D. An instance of this class provides the following functions:
 
+* `clear` - Clear screen
 * `displayDigit` - Set a digit
 * `displayDigits` - Display a one to four numbers plus lights
 * `displaySegment` - Set a digit's segments using a mask
 * `displaySegments` - Display a one to five digit's segments
-* `showNumberDecEx` - Display a decimal number with decimal points or colon
 * `setBrightness` - Sets the brightness of the display
 * `setFont` - Use your custom font
 * `setFilter` - Give a custom function to communicatre with another display
-* `clear` -  Clear screen
 
 
 The information given above is only a summary. Please refer to SC1628D.h for more information. An example is included, demonstrating the operation of most of the functions.
