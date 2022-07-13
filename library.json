@@ -1,0 +1,14 @@
+{
+  "name": "SC1628D",
+  "keywords": "LED, SC1628D",
+  "description": "Arduino library for the SC1628D LED Driver IC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pcorbes/SC1628D.git"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "espressif"
+  ]
+}
