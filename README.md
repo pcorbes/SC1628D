@@ -1,7 +1,7 @@
 SC1628D
 =======
-Arduino library for SC1628D (LED Driver)
-
+![ ](SC1628D-24degre.png  "SC1628D-24degre")
+Arduino library for SC1628D LED Driver IC
 
 Description
 -----------
